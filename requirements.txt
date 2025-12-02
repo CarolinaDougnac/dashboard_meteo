@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+cartopy
+pandas
+fsspec
+s3fs
+netCDF4
+GOES
+
+

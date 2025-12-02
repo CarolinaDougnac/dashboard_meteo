@@ -1,0 +1,21 @@
+name: dashboard_meteo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
+  - numpy
+  - matplotlib
+  - cartopy
+  - pandas
+  - netcdf4
+  - fsspec
+  - s3fs
+  - pip
+  - pip:
+      - GOES
+
+
+
+
+
